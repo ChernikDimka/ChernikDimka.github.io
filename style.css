@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital@1&display=swap');
+body{
+	background: #ACB1D6;
+	color: white;
+}
+a{
+	color: silver;
+	text-decoration: none;
+}
+a:hover{
+	color:blue;
+	background: white;
+}
+h1{
+	color: palevioletred;
+	margin-left: 20px;
+	font-size: 30pt;
+	font-family: 'EB Garamond', serif;
+}
+.indent{
+	margin-left: 40px;
+}
+.space-below{
+	margin-bottom: 15px;
+}
+#second{
+	color:lightcoral;
+}
+.bordered{
+	border: 1px solid red;
+} 
